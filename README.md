@@ -2,4 +2,4 @@
 
 Github Repo for my profile page
 
-[Live site](https://viz-eight7six.github.io/ghosts/)
+[Live site](www.vinsonchen.net)
