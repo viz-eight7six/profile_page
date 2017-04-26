@@ -2597,7 +2597,8 @@
 
 		.image img {
 			border-radius: 0.25em;
-			display: block;
+			display:block;
+
 		}
 
 		.image.left, .image.right {
